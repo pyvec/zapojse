@@ -1,5 +1,6 @@
 Zkusim popsat svuj navrh a zkusme to spolecnymi pripominkami upravit do lepsi podoby. Je to moje stankova premiera.
-
+<br>
+</br>
 ## Co chceme prezentovat?
 
 **python.cz** 
@@ -32,7 +33,8 @@ Zkusim popsat svuj navrh a zkusme to spolecnymi pripominkami upravit do lepsi po
 
 **PyCon?**
 > ze bude? 
-
+<br>
+</br>
 ## Kdo to muze prezentovat - sonda do vaseho casoveho rozvrhu
 je mi velmi jasne, ze vetsina z nas rada uslysi prednasky. Az tedy na me, ja se na ne tolik nehrnu. Bylo by lepsi dat si dopredu jak se da s vami na stanku pocitat ci zdali bych si s sebou mela nekoho vzit z holek - ale nemyslim si, ze je tolik dobry napad, aby tam byly jen holky - mozna by mel zajem @stlk?
 
@@ -41,12 +43,14 @@ je mi velmi jasne, ze vetsina z nas rada uslysi prednasky. Az tedy na me, ja se 
 | Veronika    | klidne celou dobu | muzu povidat skoro o vsem - nemam ale tolik co rict k zapojse a naucse |
 |    ?   |       |    |
 |   ?    |       |    |
-
-
+<br>
+</br>
 ## Co by na stanku nemelo chybet
-
+<br>
+</br>
 > v prvni rade, dotaz organizatoru je, zdali potrebujeme LAN  (wifi jinak k dispozici bude) a zdali potrebujeme zasuvky, toto je zrejme otazka na @encukou, zatim ji neumim sama rozhodnout
-
+<br>
+</br>
 **1. fotky z akci vytistene, hlavne hipsta fotky s ESPckem a hipsa s UKULELE** @lspdv zaridi slozku, kde vybereme, necha vytisknout, meli bychom na to mit k dispozici nejake nastenky, dohodnu v organizatorama
 
 **2. video z Pyconu nebo videa z prednasek z Pyva** @encukou a dulezite pro @lspdv vedet na cem to chceme spoustet
@@ -78,8 +82,9 @@ _nerikam nutne oboji - muzeme toho vyuzit k propragaci toho co potrebuje propago
 
 **7. tady je asi dobra moznost premyslet o nejakym mail listu**
 > muzou se tam lidi upsat k necemu to zalezi, nejaky issue tu probehlo #39, otazka na @honzajavorek
-
-## Co by mohlo stat
+<br>
+</br>
+## Co by to mohlo stat
 > pokud jde o tisk letacku A5 jednostranne 200ks cca 2Kc za kus (barevne) - ale napriklad s maluvkovejma nenarocnejma javorkama bychom to zvladli za min, kdyz budou jen cernobile
 
 > pyladies maji stale cash na samolepky - 100ks nejakych novych by mohlo vyjit kolem 5kc/kus, pokud budu mit dost casu, tak mam fajn tiskare, ktery to zvladne 100ks za 3,50 ale chce obvykle alespon dva tydny
