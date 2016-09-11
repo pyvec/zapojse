@@ -94,6 +94,5 @@ _tohle je hodne nastrelene, chtela bych poslat poptavku tomu svemu tiskari_
 
 **100ks samolepek malych pyladies barevne(I support) (2 barvy)** cca 5kc/kus nebo **100ks samolepek malych pyladies barevne(jen logo) (2 barvy)** cca 3Kc/kus
 
-**100ks samolepek malych kulatych bilych python (1 barva)** cca 3,50Kc/kus
+**100ks samolepek python kulatych bilych 3cm prumer (1barva)**cca 3,50Kc/kus
 
-**100ks samolepek python kulatych bilych 3cm prumer (1barva)**
