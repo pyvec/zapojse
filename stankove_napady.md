@@ -43,7 +43,7 @@ je mi velmi jasne, ze vetsina z nas rada uslysi prednasky. Az tedy na me, ja se 
 |   ?    |       |    |
 
 
-## Co by na stanku nemelo chybet.
+## Co by na stanku nemelo chybet
 
 > v prvni rade, dotaz organizatoru je, zdali potrebujeme LAN  (wifi jinak k dispozici bude) a zdali potrebujeme zasuvky, toto je zrejme otazka na @encukou, zatim ji neumim sama rozhodnout
 
@@ -78,3 +78,17 @@ _nerikam nutne oboji - muzeme toho vyuzit k propragaci toho co potrebuje propago
 
 **7. tady je asi dobra moznost premyslet o nejakym mail listu**
 > muzou se tam lidi upsat k necemu to zalezi, nejaky issue tu probehlo #39, otazka na @honzajavorek
+
+## Co by mohlo stat
+> pokud jde o tisk letacku A5 jednostranne 200ks cca 2Kc za kus (barevne) - ale napriklad s maluvkovejma nenarocnejma javorkama bychom to zvladli za min, kdyz budou jen cernobile
+> pyladies maji stale cash na samolepky - 100ks nejakych novych by mohlo vyjit kolem 5kc/kus, pokud budu mit dost casu, tak mam fajn tiskare, ktery to zvladne 100ks za 3,50 ale chce obvykle alespon dva tydny
+> samolepky pro python bile kulate, jedna barva cca 3,50Kc kus, akorat by si to zaplatil pyvec sam
+
+tudiz ja to vidim, ze bychom se mohli vejit mezi 1000 - 1200 Kc a navic jiste vse nerozdame
+tohle je hodne nastrelene, chtela bych poslat poptavku tomu svemu tiskari
+
+Predstava:
+**200ks letacku A5 barevne** cca 2Kc/kus
+**100ks samolepek malych pyladies barevne(I support) (2 barvy)** cca 5kc/kus nebo **100ks samolepek malych pyladies barevne(jen logo) (2 barvy)** cca 3Kc/kus
+**100ks samolepek malych kulatych bilych python (1 barva)** cca 3,50Kc/kus
+**100ks samolepek python kulatych bilych 3cm prumer (1barva)**
