@@ -32,7 +32,8 @@ Zkusim popsat svuj navrh a zkusme to spolecnymi pripominkami upravit do lepsi po
 > to by tam nemelo chybet
 
 **PyCon?**
-> ze bude? 
+> ze bude?
+
 <br>
 </br>
 ## Kdo to muze prezentovat - sonda do vaseho casoveho rozvrhu
@@ -43,9 +44,11 @@ je mi velmi jasne, ze vetsina z nas rada uslysi prednasky. Az tedy na me, ja se 
 | Veronika    | klidne celou dobu | muzu povidat skoro o vsem - nemam ale tolik co rict k zapojse a naucse |
 |    ?   |       |    |
 |   ?    |       |    |
+
 <br>
 </br>
 ## Co by na stanku nemelo chybet
+
 <br>
 </br>
 > v prvni rade, dotaz organizatoru je, zdali potrebujeme LAN  (wifi jinak k dispozici bude) a zdali potrebujeme zasuvky, toto je zrejme otazka na @encukou, zatim ji neumim sama rozhodnout
@@ -82,6 +85,7 @@ _nerikam nutne oboji - muzeme toho vyuzit k propragaci toho co potrebuje propago
 
 **7. tady je asi dobra moznost premyslet o nejakym mail listu**
 > muzou se tam lidi upsat k necemu to zalezi, nejaky issue tu probehlo #39, otazka na @honzajavorek
+
 <br>
 </br>
 ## Co by to mohlo stat
