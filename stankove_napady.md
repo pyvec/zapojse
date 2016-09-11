@@ -49,8 +49,6 @@ je mi velmi jasne, ze vetsina z nas rada uslysi prednasky. Az tedy na me, ja se 
 </br>
 ## Co by na stanku nemelo chybet
 
-<br>
-</br>
 > v prvni rade, dotaz organizatoru je, zdali potrebujeme LAN  (wifi jinak k dispozici bude) a zdali potrebujeme zasuvky, toto je zrejme otazka na @encukou, zatim ji neumim sama rozhodnout
 <br>
 </br>
