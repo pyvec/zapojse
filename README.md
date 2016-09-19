@@ -11,7 +11,7 @@ Máme sice [Pyvec](http://pyvec.org/), tedy neziskovku, která má rozšiřován
 - **Vysvětluj** nováčkům na [diskusích](http://python.cz/#komunikace).
 - **Pomoz** organizátorům [srazů](http://python.cz/#srazy) nebo [založ vlastní sraz](http://pyvec-guide.readthedocs.org/guides/meetup.html) ve svém městě.
 - **Přednášej** na [srazech](http://pyvo.cz/)! Pětiminutový lightning talk většinou není potřeba oznamovat předem, stačí přijít na sraz a něco říct. Delší přednášky je dobré s předstihem nahlásit organizátorům srazu.
-- **Piš** a překládej! Články můžeš publikovat třeba na [Zdroják.cz](http://www.zdrojak.cz/n/python/).
+- **Piš** a překládej! Články můžeš publikovat třeba na [blogu české Python komunity](blog.python.cz) či na [Zdroják.cz](http://www.zdrojak.cz/n/python/).
 - **Programuj** open source! Zajímavých projektů, které uvítají pomoc na jakékoli úrovni, je spousta. Inspirovat se můžeš na [GitHubu](https://github.com/trending?l=python).
 
 ## Jednorázové úkoly
